@@ -1,0 +1,6 @@
+{
+  "name": "Stumble Classic",
+  "description": "Juego 3D de carreras y supervivencia estilo Stumble Guys clásico con 32 jugadores, obstáculos giratorios y torneos de 3 rondas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
